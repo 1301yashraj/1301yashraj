@@ -1,16 +1,45 @@
-### Hi there 👋
 
-<!--
-**1301yashraj/1301yashraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src ="https://github.com/1301yashraj/AnkitParte/blob/main/parte%20banner.png?raw=true" />
+<h3 align="justify">Hey! I am student who is passionate about developing user-friendly software
+applications. Flexible, always open to learn and a solution oriented guy. Willing to contribute
+to an organization as a software engineer, as well as grow and develop my own skills as a coder.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1301yashraj&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj" /> </p>
+
+## Fun Fact 🎈:
+
+- 🌱 I’m proficient in <b> HTML CSS JavaScript & MongoDB ExpressJD ReactJS NodeJS </b>
+
+- 👨‍💻 All of my projects are available at [https://1301yashraj.github.io/](https://1301yashraj.github.io/)
+
+- 💬 Ask me about <b>MERN Stack</b>
+
+- 📫 Contact me **1301yashraj@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YkoF3laVUdAXOg66mobMzcleRKygIqlQ/view]
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=1301yashraj" alt="1301yashraj" /></a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ankit-parte-sharingon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1301yashraj" height="30" width="40" /></a>
+<a href="https://leetcode.com/A_parte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1301yashraj" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ankitparte80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1301yashraj" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" />
+
+<h2><i>My GitHub Stats</i></h2>
+<br>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=1301yashraj&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="1301yashraj" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1301yashraj&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="1301yashraj" height="139" />
+</p>
+
+<a href="https://github.com/1301yashraj/github-readme-activity-graph"><img alt="1301yashraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=1301yashraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
