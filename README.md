@@ -9,7 +9,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 ## Fun Fact 🎈:
 
-- 🌱 I’m proficient in <b> HTML CSS JavaScript & MongoDB ExpressJD ReactJS NodeJS </b>
+- 🌱 I’m proficient in <b> HTML CSS JavaScript Java SpringBoot and SQL </b>
 
 - 👨‍💻 All of my projects are available at [https://1301yashraj.github.io/](https://1301yashraj.github.io/)
 
