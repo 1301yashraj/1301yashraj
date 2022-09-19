@@ -31,7 +31,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://github.com/1301yashraj/1301yashraj/blob/main/javatechstack.png" alt="Tech-stack" height="139" />
+<img src="https://github.com/1301yashraj/1301yashraj/blob/main/javatechstack.png" alt="Tech-stack" height="200" width="300" />
 
 <h2><i>My GitHub Stats</i></h2>
 <br>
