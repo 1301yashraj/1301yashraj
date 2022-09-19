@@ -1,6 +1,6 @@
 
 
-<img src ="https://github.com/1301yashraj/AnkitParte/blob/main/parte%20banner.png?raw=true" />
+<img src ="https://github.com/1301yashraj/1301yashraj/blob/main/github-header-image.png" />
 <h3 align="justify">Hey! I am student who is passionate about developing user-friendly software
 applications. Flexible, always open to learn and a solution oriented guy. Willing to contribute
 to an organization as a software engineer, as well as grow and develop my own skills as a coder.</h3>
@@ -13,11 +13,11 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 - 👨‍💻 All of my projects are available at [https://1301yashraj.github.io/](https://1301yashraj.github.io/)
 
-- 💬 Ask me about <b>MERN Stack</b>
+- 💬 Ask me about <b>Java Backend and SQL</b>
 
 - 📫 Contact me **1301yashraj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YkoF3laVUdAXOg66mobMzcleRKygIqlQ/view]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U07tT1AyvYy4hijq7eddt7PZX7pHutIq/view]
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=1301yashraj" alt="1301yashraj" /></a>
@@ -25,9 +25,9 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ankit-parte-sharingon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1301yashraj" height="30" width="40" /></a>
-<a href="https://leetcode.com/A_parte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1301yashraj" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankitparte80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1301yashraj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-raj-426471118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1301yashraj" height="30" width="40" /></a>
+<a href="https://leetcode.com/1301yashraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1301yashraj" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/1301yashraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1301yashraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
