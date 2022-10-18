@@ -17,7 +17,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 - 📫 Contact me **1301yashraj@gmail.com**   and Connect with me On Linkedin **www.linkedin.com/in/yash-raj-426471118**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U07tT1AyvYy4hijq7eddt7PZX7pHutIq/view]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U07tT1AyvYy4hijq7eddt7PZX7pHutIq/view?usp=sharing]
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=1301yashraj" alt="1301yashraj" /></a>
