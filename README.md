@@ -69,11 +69,15 @@ I'm a passionate Full Stack Developer with 2 years of experience crafting user-f
 - 🧑‍💻 LeetCode: [1301yashraj](https://leetcode.com/1301yashraj/)
 - 🖥️ GeeksForGeeks: [1301yashraj](https://auth.geeksforgeeks.org/user/1301yashraj/)
 
+## Languages Used 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1301yashraj&layout=compact&theme=radical&hide_border=true)](https://github.com/1301yashraj)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1301yashraj&theme=github-dark)](https://github.com/1301yashraj)
+
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=1301yashraj&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1301yashraj&theme=github-dark)](https://github.com/1301yashraj)
 
 ---
 
