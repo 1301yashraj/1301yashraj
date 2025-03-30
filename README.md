@@ -1,45 +1,80 @@
+# Hi there, I'm Yash Raj 👋
+
+[![Profile Views](https://komarev.com/ghpvc/?username=1301yashraj&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/1301yashraj)
+[![GitHub Followers](https://img.shields.io/github/followers/1301yashraj?label=Follow&style=social)](https://github.com/1301yashraj)
+
+<div align="center">
+ <img src="https://raw.githubusercontent.com/1301yashraj/1301yashraj/main/developer.gif" alt="Coding" width="600"/>
+</div>
+
+## 🚀 About Me
+
+I'm a passionate Full Stack Developer with 2 years of experience crafting user-friendly software applications. I thrive on building innovative solutions and turning ideas into reality. When I'm not developing client projects, you'll find me exploring the depths of Rust or working on my own freelance products.
+
+- 🔭 Currently building freelance products and open-source tools
+- 🌱 Deep diving into Full Stack Web Developement.
+- 💬 Exploring Rust for WebAssembly, which is usually taking a lot of my time recently.
+
+## 💼 Work Experience
+
+### **Full Stack Developer**  
+**Accounting 360 (ERP Software)**  
+- Developed core features from scratch using React, Spring Boot, and MySQL
+- Implemented Docker containers for deployment and Kafka for event streaming
+- Optimized database queries improving performance by 40%
+- Collaborated using Git in an Agile development environment
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
+
+### Databases
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-<img src ="https://github.com/1301yashraj/1301yashraj/blob/main/github-header-image.png" />
-<h3 align="justify">Hey! I am student who is passionate about developing user-friendly software
-applications. Flexible, always open to learn and a solution oriented guy. Willing to contribute
-to an organization as a software engineer, as well as grow and develop my own skills as a coder.</h3>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1301yashraj&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj" /> </p>
+## 📈 GitHub Stats
 
-## Fun Fact 🎈:
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=1301yashraj&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=1301yashraj&theme=radical&hide_border=true" />
+</div>
 
-- 🌱 I’m proficient in <b> HTML CSS JavaScript Java SpringBoot and SQL </b>
+<div align="center">
+  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=1301yashraj&theme=react-dark&hide_border=true&area=true" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://1301yashraj.github.io/](https://1301yashraj.github.io/)
+## 📫 Get in Touch
 
-- 💬 Ask me about <b>Java Backend and SQL</b>
+- 📧 Email: [1301yashraj@gmail.com](mailto:1301yashraj@gmail.com)
+- 💼 LinkedIn: [Yash Raj](https://www.linkedin.com/in/yash-raj-426471118/)
+- 📄 Resume (old one): [View My Resume](https://drive.google.com/file/d/1U07tT1AyvYy4hijq7eddt7PZX7pHutIq/view?usp=sharing)
+- 🧑‍💻 LeetCode: [1301yashraj](https://leetcode.com/1301yashraj/)
+- 🖥️ GeeksForGeeks: [1301yashraj](https://auth.geeksforgeeks.org/user/1301yashraj/)
 
-- 📫 Contact me **1301yashraj@gmail.com**   and Connect with me On Linkedin **www.linkedin.com/in/yash-raj-426471118**
+## 🏆 GitHub Trophies
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U07tT1AyvYy4hijq7eddt7PZX7pHutIq/view?usp=sharing]
+[![trophy](https://github-profile-trophy.vercel.app/?username=1301yashraj&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=1301yashraj" alt="1301yashraj" /></a>
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1301yashraj&theme=github-dark)](https://github.com/1301yashraj)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-raj-426471118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1301yashraj" height="30" width="40" /></a>
-<a href="https://leetcode.com/1301yashraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1301yashraj" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/1301yashraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1301yashraj" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://github.com/1301yashraj/1301yashraj/blob/main/javatechstack.png" alt="Tech-stack" height="200" width="300" />
-
-<h2><i>My GitHub Stats</i></h2>
-<br>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=1301yashraj&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="1301yashraj" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1301yashraj&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="1301yashraj" height="139" />
-</p>
-
-<a href="https://github.com/1301yashraj/github-readme-activity-graph"><img alt="1301yashraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=1301yashraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
+<p align="center">Thanks for visiting! ❤️</p>
